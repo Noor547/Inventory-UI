@@ -1,0 +1,150 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+android/.gradle
+android/.idea
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/build/
+android/**/production/
+android/captures/
+.android
+*.keystore
+*.jks
+
+# iOS
+ios/**/*.mode1v3
+ios/**/*.mode2v3
+ios/**/*.moved-aside
+ios/**/*.pbxuser
+ios/**/*.perspectivev3
+ios/**/*.pyc
+ios/**/*.sync/
+ios/**/.sconsign.dblite
+ios/**/.tags*
+ios/**/.vagrant/
+ios/**/DerivedData/
+ios/**/Icon?
+ios/**/Pods/
+ios/**/.DS_Store
+ios/build/
+ios/Podfile.lock
+ios/Pods/
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Bundle artifact
+*.jsbundle
+
+# TypeScript
+*.tsbuildinfo
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Metro
+.haste-map
+.history
+
+# Build
+dist/
+build/
+artifacts/
+
+# Coverage
+coverage/
+
+# Misc
+*.log
+*.patch
+*.diff
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
+*.bak
+*.tmp
+*.cache
+*.class
+*.lock
+*.map
+*.out
+*.pid
+*.seed
+*.tgz
+*.gz
+*.zip
+*.tar
+*.dll
+*.exe
+*.bin
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.min.js
+*.min.css
+*.app
+*.ipa
+*.dSYM.zip
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcworkspace
+
+# Custom
+*.orig
+.settings/
+*.sublime-workspace
+*.sublime-project
+*.project
+*.tmproj
+*.pbxproj
+*.xcworkspacedata
+*.xcscheme
+xcuserdata/
