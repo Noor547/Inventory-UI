@@ -135,7 +135,7 @@ coverage/
 *.xcuserstate
 *.xccheckout
 *.xcscmblueprint
-*.xcworkspace
+# *.xcworkspace
 
 # Custom
 *.orig
@@ -145,6 +145,6 @@ coverage/
 *.project
 *.tmproj
 *.pbxproj
-*.xcworkspacedata
+# *.xcworkspacedata
 *.xcscheme
 xcuserdata/
