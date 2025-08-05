@@ -1,0 +1,79 @@
+# Node modules
+/node_modules/
+
+# Binaries
+*.apk
+*.ap_
+*.aab
+
+# iOS build
+ios/Pods/
+ios/build/
+ios/DerivedData/
+#ios/*.xcworkspace
+ios/Podfile.lock
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+*.xcuserstate
+*.moved-aside
+
+# Android build
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+
+# React Native
+*.log
+*.tmp
+*.temp
+*.swp
+.expo/
+.expo-shared/
+.env
+.env.*    # Ignore all environment-specific files
+*.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+metro-cache/
+dist/
+coverage/
+
+# macOS
+*.DS_Store
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Watchman
+.watchmanconfig
+
+# CocoaPods
+ios/Pods/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Bundle output
+*.jsbundle
+*.map
+
+# Misc
+*.orig
